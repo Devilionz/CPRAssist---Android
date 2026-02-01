@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+
+    <!-- Heart shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,75
+            C54,75 34,60 34,47
+            C34,40 40,35 47,35
+            C51,35 54,38 54,38
+            C54,38 57,35 61,35
+            C68,35 74,40 74,47
+            C74,60 54,75 54,75Z" />
+
+    <!-- ECG line -->
+    <path
+        android:strokeColor="#D32F2F"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M38,54 L45,54 L48,45 L51,63 L54,48 L57,58 L60,54 L70,54" />
+
+</vector>

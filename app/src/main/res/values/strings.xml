@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CPR Assist</string>
+
+    <!-- Mode Selection -->
+    <string name="mode_cpr_guidance">CPR Guidance</string>
+    <string name="mode_professional">Professional Mode</string>
+
+    <!-- CPR Guidance -->
+    <string name="call_911">CALL 911 NOW</string>
+    <string name="start_cpr">START CPR</string>
+    <string name="push_hard_fast">PUSH HARD &amp; FAST</string>
+    <string name="switch_rescuer">SWITCH RESCUER</string>
+    <string name="compressions">Compressions</string>
+    <string name="time">Time</string>
+
+    <!-- Professional Mode -->
+    <string name="confirm_cardiac_arrest">CONFIRM CARDIAC ARREST</string>
+    <string name="arrest">ARREST</string>
+    <string name="cycle">CYCLE</string>
+    <string name="rosc">ROSC</string>
+    <string name="re_arrest">RE-ARREST</string>
+
+    <!-- Event Types -->
+    <string name="event_igel">iGel</string>
+    <string name="event_tube">Tube</string>
+    <string name="event_cannula">Cannula</string>
+    <string name="event_io">IO</string>
+    <string name="event_vf">VF</string>
+    <string name="event_vt">VT</string>
+    <string name="event_asystole">Asystole</string>
+    <string name="event_pea">PEA</string>
+    <string name="event_shock">Shock Given</string>
+    <string name="event_adrenaline">Adrenaline</string>
+    <string name="event_amiodarone">Amiodarone</string>
+    <string name="event_narcan">Narcan</string>
+    <string name="event_fluids">Fluids</string>
+    <string name="event_txa">TXA</string>
+    <string name="event_atropine">Atropine</string>
+
+    <!-- Actions -->
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="end">End</string>
+    <string name="view_log">View Log</string>
+    <string name="export">Export</string>
+    <string name="share">Share</string>
+
+    <!-- Disclaimer -->
+    <string name="medical_disclaimer">This app is not a replacement for professional medical training. Always call emergency services (911) immediately.</string>
+
+    <!-- Notifications -->
+    <string name="notification_metronome_title">CPR Assist Active</string>
+    <string name="notification_metronome_text">Metronome running</string>
+</resources>
